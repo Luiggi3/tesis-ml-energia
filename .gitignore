@@ -1,0 +1,19 @@
+# Datasets grandes
+datos/household_power_consumption.txt
+datos/dataset_limpio.csv
+
+# Carpetas generadas automáticamente
+graficos/
+# modelos/ — se incluyen los CSV de resultados
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Spyder
+.spyproject/
+
+# Claude Code
+.claude/
