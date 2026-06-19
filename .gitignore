@@ -17,3 +17,10 @@ __pycache__/
 
 # Claude Code
 .claude/
+
+# Documentos Word generados
+*.docx
+
+# Scripts de generación de documentos
+codigo/generar_*.py
+codigo/diagrama_metodologico.py
