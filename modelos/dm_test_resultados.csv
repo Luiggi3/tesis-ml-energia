@@ -1,0 +1,7 @@
+Escenario,Comparación,DM_stat,p_value,Conclusion
+15 Minutos,Random Forest vs XGBoost,0.895,0.3708,No hay diferencia significativa entre Random Forest y XGBoost (p≥0.05)
+15 Minutos,XGBoost vs Persistencia,-4.7601,0.0,XGBoost es significativamente mejor que Persistencia (p<0.05)
+1 Hora,Random Forest vs XGBoost,1.9185,0.0551,No hay diferencia significativa entre Random Forest y XGBoost (p≥0.05)
+1 Hora,XGBoost vs Persistencia,-9.8836,0.0,XGBoost es significativamente mejor que Persistencia (p<0.05)
+1 Día,Random Forest vs XGBoost,-0.8442,0.3993,No hay diferencia significativa entre Random Forest y XGBoost (p≥0.05)
+1 Día,Random Forest vs Persistencia,-3.6831,0.0003,Random Forest es significativamente mejor que Persistencia (p<0.05)
